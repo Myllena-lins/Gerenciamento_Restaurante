@@ -1,5 +1,5 @@
 # Gerenciamento de Restaurante
-Este é um sistema de gerenciamento de restaurante desenvolvido em Python que permite a administração de cardápios, reservas e pedidos, feito em grupo com cinco pessoas que contribuiram para o desenvolvimento do projeto, da disciplina de introdução a programação. O sistema utiliza arquivos JSON para armazenamento dos dados e fornece uma interface de linha de comando para interação com as funcionalidades.
+Este é um sistema de gerenciamento de restaurante desenvolvido em Python que permite a administração de cardápios, reservas e pedidos, feito em grupo com cinco pessoas que contribuiram para o desenvolvimento do projeto, da disciplina de Fundamentos da Programação. O sistema utiliza arquivos JSON para armazenamento dos dados e fornece uma interface de linha de comando para interação com as funcionalidades.
 
 ## Funcionalidades
 ### Gerenciamento do Cardápio
