@@ -1,0 +1,38 @@
+{
+    "1": {
+        "nome": "Pizza de Calabresa",
+        "descricao": "Pizza com calabresa, cebola e queijo",
+        "preco": 39.9,
+        "tipo": "Principal"
+    },
+    "2": {
+        "nome": "Hambúrguer Artesanal",
+        "descricao": "Hambúrguer de carne 180g com queijo e bacon",
+        "preco": 32.5,
+        "tipo": "Lanche"
+    },
+    "3": {
+        "nome": "Salada Caesar",
+        "descricao": "Salada com frango grelhado e molho caesar",
+        "preco": 28.0,
+        "tipo": "Entrada"
+    },
+    "4": {
+        "nome": "Suco de Laranja",
+        "descricao": "Suco natural de laranja",
+        "preco": 8.0,
+        "tipo": "Bebida"
+    },
+    "5": {
+        "nome": "Refrigerante",
+        "descricao": "Refrigerante lata 350ml",
+        "preco": 6.5,
+        "tipo": "Bebida"
+    },
+    "6": {
+        "nome": "Lasanha de Frango",
+        "descricao": "Lasanha tradicional com frango e molho branco",
+        "preco": 50.0,
+        "tipo": "Principal"
+    }
+}

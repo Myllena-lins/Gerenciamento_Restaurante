@@ -1,0 +1,16 @@
+{
+    "1": {
+        "numero_mesa": 3,
+        "nome_cliente": "Maria Silva",
+        "data": "10/03/2026",
+        "hora": "19:30",
+        "numero_pessoas": 2
+    },
+    "2": {
+        "numero_mesa": 6,
+        "nome_cliente": "Carlos Jose",
+        "data": "11/04/2026",
+        "hora": "19:00",
+        "numero_pessoas": 5
+    }
+}

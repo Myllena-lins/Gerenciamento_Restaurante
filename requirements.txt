@@ -1,0 +1,1 @@
+# Projeto usando apenas bibliotecas nativas do Python
